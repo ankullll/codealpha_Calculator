@@ -11,7 +11,7 @@ Intuitive User Interface: Clean and responsive design with clearly labeled butto
 
 Real-time Results: Displays calculation results instantly as you type.
 
-Clear Functionality: A "C" button to clear the current input and reset the calculator.
+Clear Functionality: A "AC" button to clear the current input and reset the calculator.
 
 Decimal Support: Perform calculations with floating-point numbers.
 
